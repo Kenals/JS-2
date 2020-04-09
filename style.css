@@ -5,7 +5,7 @@
 body {
     background-color: #062863;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-image: url(image/data1.png), url(image/data2.png), url(image/data3.png), url(image/last.png);
+    background-image: url(Image/data1.png), url(Image/data2.png), url(Image/data3.png), url(Image/last.png);
     background-repeat: no-repeat;
     background-position: -1% -15%, 109% 0%, -5% 110%, 107% 105%;
     background-size: 15%;
